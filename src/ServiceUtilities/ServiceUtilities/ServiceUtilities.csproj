@@ -13,7 +13,7 @@
     <RepositoryUrl>https://github.com/mcsEngineeringAg/ServiceUtilities?tab=readme-ov-file</RepositoryUrl>
     <PackageIcon>log_mcs_quadratisch.png</PackageIcon>
     <PackageProjectUrl>https://gitlab.mcscorp.ch/mcs/projekte/restutilities</PackageProjectUrl>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression> MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
