@@ -20,6 +20,6 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore ./src/ServiceUtilities/ServiceUtilities.sln
     - name: Build
-      run: dotnet build ./src/ServiceUtilities/ServiceUtilities.sln --no-restore
+      run: dotnet build ./src/ServiceUtilities/ServiceUtilities.sln  -c Release --no-restore
     - name: Test
-      run: dotnet test ./src/ServiceUtilities/ServiceUtilitiesTests/ServiceUtilitiesTests.csproj --no-build --verbosity normal
+      run: dotnet test ./src/ServiceUtilities/ServiceUtilitiesTests/ServiceUtilitiesTests.csproj -c Release --no-build --verbosity normal
