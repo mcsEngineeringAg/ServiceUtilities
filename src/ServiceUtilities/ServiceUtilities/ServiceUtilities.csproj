@@ -10,9 +10,9 @@
     <Description>A collection of middlewar and utility functions for REST Services.</Description>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <RepositoryUrl>https://github.com/mcsEngineeringAg/ServiceUtilities?tab=readme-ov-file</RepositoryUrl>
+    <RepositoryUrl>https://github.com/mcsEngineeringAg/ServiceUtilities</RepositoryUrl>
     <PackageIcon>log_mcs_quadratisch.png</PackageIcon>
-    <PackageProjectUrl>https://gitlab.mcscorp.ch/mcs/projekte/restutilities</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/mcsEngineeringAg/ServiceUtilities</PackageProjectUrl>
     <Version>0.1.1</Version>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression> MIT</PackageLicenseExpression>
