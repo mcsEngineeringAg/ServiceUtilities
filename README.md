@@ -28,7 +28,7 @@ example output:
 ```
 
 ## Architecture documentation
-- [Architecture documentation](arcDoc/arc42/01_introduction_and_goals.md)
+- [Architecture documentation](arcDoc/arc42/arc42.md)
 
 ## Contributing
 - Programming guidelines: https://codingconventions.mcscorp.ch/richtlinien-csharp-extended.html
