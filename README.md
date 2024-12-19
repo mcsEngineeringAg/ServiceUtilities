@@ -1,4 +1,7 @@
 # ServiceUtilities
+[![Version](https://img.shields.io/nuget/vpre/mcs.ServiceUtilities.svg)](https://www.nuget.org/packages/mcs.ServiceUtilities/)
+[![Downloads](https://img.shields.io/nuget/dt/mcs.ServiceUtilities.svg)](https://www.nuget.org/packages/mcs.ServiceUtilities/)
+[![Codecov](https://img.shields.io/codecov/c/github/mcsEngineeringAg/ServiceUtilities)](https://app.codecov.io/gh/mcsEngineeringAg/ServiceUtilities)
 The project contains helper functionality for building .Net REST Services.
 
 ## How To Use the nuget
@@ -26,9 +29,6 @@ example output:
 
 ## Architecture documentation
 - [Architecture documentation](arcDoc/arc42/01_introduction_and_goals.md)
-
-## Changelog
-- [Changelog](Changelog.md)
 
 ## Contributing
 - Programming guidelines: https://codingconventions.mcscorp.ch/richtlinien-csharp-extended.html
