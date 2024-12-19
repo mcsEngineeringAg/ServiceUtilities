@@ -1,7 +1,7 @@
-# ServiceUtilities
 [![Version](https://img.shields.io/nuget/vpre/mcs.ServiceUtilities.svg)](https://www.nuget.org/packages/mcs.ServiceUtilities/)
 [![Downloads](https://img.shields.io/nuget/dt/mcs.ServiceUtilities.svg)](https://www.nuget.org/packages/mcs.ServiceUtilities/)
 [![Codecov](https://img.shields.io/codecov/c/github/mcsEngineeringAg/ServiceUtilities)](https://app.codecov.io/gh/mcsEngineeringAg/ServiceUtilities)
+# ServiceUtilities
 The project contains helper functionality for building .Net REST Services.
 
 ## How To Use the nuget
