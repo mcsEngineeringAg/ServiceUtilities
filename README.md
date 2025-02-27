@@ -22,7 +22,7 @@ example output:
 ```
 2228|2024-12-13 08:16:08.547 +01:00|DBG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id ""0HN8R8M70T9KT"" stopped.
 2229|2024-12-13 08:16:08.553 +01:00|DBG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id ""0HN8R8M70T9KS"" stopped.
-1|2024-12-13 08:12:50.455 +01:00|INF|Trumpf.TruTops.FluxRestService.Program|FluxRESTServiceVersion: 1.0.0.0
+1|2024-12-13 08:12:50.455 +01:00|INF|ExampleService.Program|ExampleServiceVersion: 1.0.0.0
 2|2024-12-13 08:12:50.458 +01:00|DBG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting
 3|2024-12-13 08:12:50.500 +01:00|INF|Man.Dapr.Sidekick.DaprSidecarHost|Dapr Process Status Change: Started 
 ```
